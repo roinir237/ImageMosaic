@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MosaicScaler">
+    <output-path>$PROJECT_DIR$/out/artifacts/MosaicScaler</output-path>
+    <root id="archive" name="MosaicScaler.jar">
+      <element id="module-output" name="MosaicScaler" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/opencv-2.4.9/build/bin/opencv-249.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

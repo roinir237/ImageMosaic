@@ -1,0 +1,1494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MosaicScaler" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="772acd1b-cd6a-4c28-b953-50745e0ae517" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/MosaicScaler.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__opencv_2_4_9_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000005.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000006.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000007.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000008.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000009.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000010.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000011.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000012.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000013.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000014.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000015.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000016.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000017.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000018.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000019.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000020.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000021.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000022.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000023.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000025.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000026.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000027.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000028.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000029.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000030.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000031.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000032.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000033.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000034.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000035.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000036.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000037.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000038.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000039.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000040.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000041.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000042.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000043.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000044.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000045.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000046.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000047.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000048.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000049.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000050.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000051.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000052.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000053.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000054.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000055.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000056.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000057.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000058.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000059.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000060.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000061.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000062.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000063.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000064.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000065.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000066.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000067.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000068.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000069.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000070.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000071.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000072.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000073.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000074.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000075.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000076.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000077.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000078.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000079.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000080.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000081.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000082.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000083.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000084.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000085.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000086.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000087.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000088.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000089.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000090.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000091.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000092.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000093.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000094.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000095.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000096.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000097.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000098.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000099.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000101.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000102.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000103.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000104.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000105.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000106.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000107.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000108.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000109.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000110.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000111.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000112.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000113.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000114.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000115.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000116.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000117.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000118.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000119.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000120.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000121.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000122.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000123.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000124.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000125.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000126.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000127.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000128.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000129.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000130.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000131.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000132.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000133.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000134.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000135.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000136.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000137.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000138.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000139.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000140.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000141.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000142.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000143.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000144.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000145.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000146.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000147.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000148.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000149.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000151.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000152.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000153.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000154.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000155.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000156.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000157.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000158.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000159.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000160.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000161.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000162.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000163.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000164.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000165.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000166.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000167.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000168.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000169.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000170.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000171.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000172.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000173.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000174.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000175.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000176.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000177.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000178.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000179.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000180.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000181.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000182.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000183.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000184.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000185.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000186.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000187.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000188.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000189.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000190.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000191.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000192.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000193.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000194.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000195.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000196.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000197.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000198.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000199.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000201.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000202.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000203.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000204.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000205.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000206.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000207.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000208.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000209.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000210.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000211.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000212.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000213.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000214.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000215.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000216.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000217.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000218.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000219.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000220.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000221.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000222.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000223.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000224.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000225.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000226.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000227.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000228.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000229.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000230.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000231.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000232.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000233.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000234.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000235.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000236.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000237.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000238.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000239.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000240.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000241.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000242.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000243.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000244.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000245.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000246.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000247.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000248.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000249.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000250.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000252.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000253.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000254.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000255.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000256.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000257.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000258.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000259.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000260.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000261.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000262.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000263.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000264.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000265.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000266.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000267.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000268.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000269.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000270.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000271.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000272.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000273.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000274.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000275.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000276.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000277.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000278.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000279.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000280.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000281.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000282.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000283.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000284.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000285.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000286.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000287.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000288.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000289.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000290.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000291.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000292.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000293.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000294.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000295.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000296.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000297.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000298.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000299.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000301.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000302.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000303.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000304.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000305.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000306.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000307.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000308.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000309.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000310.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000311.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000312.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000313.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000314.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000315.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000316.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000317.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000318.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000319.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000320.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000321.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000322.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000323.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000325.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000326.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000327.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000328.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000329.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000330.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000331.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000332.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000333.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000334.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000335.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000336.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000337.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000338.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000339.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000340.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000341.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000342.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000343.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000344.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000345.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000346.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000347.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000348.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000349.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000350.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000351.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000352.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000353.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000354.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000355.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000356.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000357.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000358.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000359.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000360.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000361.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000362.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000363.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000364.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000365.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000366.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000367.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000368.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000369.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000370.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000371.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000372.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000373.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000374.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000375.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000376.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000377.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000378.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000379.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000380.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000381.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000382.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000383.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/000384.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/breakImage.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/original.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/positions.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/result1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/result10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/result2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/result4.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/result4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/result5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/result6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/result7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/result8.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/result8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/result9.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageScaler.java" afterPath="$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageScaler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageTile.java" afterPath="$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageTile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MosaicScaler.iml" afterPath="$PROJECT_DIR$/MosaicScaler.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/MosaicScaler.java" afterPath="$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/MosaicScaler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradlew.bat" afterPath="$PROJECT_DIR$/gradlew.bat" />
+    </list>
+    <ignored path="MosaicScaler.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="MosaicScaler" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MosaicScaler.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/MosaicScaler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.95027626" vertical-offset="271" max-vertical-offset="810">
+              <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageScaler.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageScaler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="1590">
+              <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageTile.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageTile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="852" max-vertical-offset="1260">
+              <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Roi Nir" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="tasksExpandState">
+      <map>
+        <entry key="" value="true" />
+        <entry key="MosaicScaler/" value="true" />
+      </map>
+    </option>
+    <option name="recentTasks">
+      <list>
+        <ExternalTaskExecutionInfo>
+          <option name="executorId" value="Run" />
+          <option name="settings">
+            <ExternalSystemSettings>
+              <option name="externalProjectPath" value="$PROJECT_DIR$" />
+              <option name="externalSystemIdString" value="GRADLE" />
+              <option name="taskNames">
+                <list>
+                  <option value="build" />
+                </list>
+              </option>
+            </ExternalSystemSettings>
+          </option>
+        </ExternalTaskExecutionInfo>
+      </list>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="MosaicScaler" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="MosaicScaler" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="2802733424000" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="MosaicScaler" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/core-impl" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/cpp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/jetty" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/language-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/open-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/sonar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/ui" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/ant-1.9.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/ant-launcher-1.9.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/gradle-base-services-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/gradle-base-services-groovy-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/gradle-cli-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/gradle-core-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/gradle-docs-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/gradle-launcher-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/gradle-messaging-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/gradle-native-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/gradle-open-api-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/gradle-resources-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/gradle-tooling-api-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/gradle-ui-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/gradle-wrapper-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/groovy-all-1.8.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/ant-antlr-1.9.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-announce-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-antlr-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-build-comparison-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-build-init-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-code-quality-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-core-impl-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-cpp-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-diagnostics-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-ear-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-ide-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-ivy-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-jacoco-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-javascript-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-jetty-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-language-base-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-language-jvm-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-maven-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-osgi-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-plugins-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-publish-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-reporting-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-scala-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-signing-1.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.9-all/3jdgemv0iv8uqohg3kcp2o88r1/gradle-1.9/lib/plugins/gradle-sonar-1.9.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageSegment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ScaledImage.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/MosaicScaler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageScaler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageTile.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="712" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MosaicScaler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MosaicScaler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MosaicScaler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MosaicScaler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MosaicScaler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MosaicScaler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MosaicScaler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MosaicScaler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MosaicScaler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MosaicScaler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MosaicScaler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mosaicscaler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/opencv-2.4.9/build/bin/opencv-249.jar!/" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.MosaicScaler">
+    <configuration default="false" name="MosaicScaler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.uceenir.mosaicscaler.MosaicScaler" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=$USER_HOME$/Downloads/opencv-2.4.9/build/lib/" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MosaicScaler" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MosaicScaler [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <RunnerSettings RunnerId="ExternalSystemTaskRunner" />
+      <ConfigurationWrapper RunnerId="ExternalSystemTaskRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.MosaicScaler" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.MosaicScaler [build]" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.MosaicScaler" />
+        <item index="1" class="java.lang.String" itemvalue="Gradle.MosaicScaler [build]" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="772acd1b-cd6a-4c28-b953-50745e0ae517" name="Default" comment="" />
+      <created>1400662312162</created>
+      <updated>1400662312162</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1400711911481</created>
+      <updated>1400711911481</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="712" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40273973" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32739726" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23828755" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32739726" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Module Dependencies" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="39" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/MosaicScaler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageScaler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="930" max-vertical-offset="1665">
+          <caret line="62" column="16" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="113" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageTile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1125" max-vertical-offset="1440">
+          <caret line="75" column="31" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/MosaicScaler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="795">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="300">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageScaler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="930" max-vertical-offset="1665">
+          <caret line="62" column="16" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="113" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageTile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1320" max-vertical-offset="1440">
+          <caret line="88" column="5" selection-start-line="8" selection-start-column="1" selection-end-line="88" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/MosaicScaler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="795">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="300">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageScaler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="945" max-vertical-offset="1665">
+          <caret line="63" column="13" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageTile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1440">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/MosaicScaler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageScaler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="945" max-vertical-offset="1665">
+          <caret line="63" column="13" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageTile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1440">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/MosaicScaler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageScaler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="1605">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageTile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="735" max-vertical-offset="1440">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/MosaicScaler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="255">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="702">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/opencv-2.4.9/build/bin/opencv-249.jar!/org/opencv/core/Mat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3324468" vertical-offset="33910" max-vertical-offset="42900">
+          <caret line="2269" column="0" selection-start-line="2269" selection-start-column="0" selection-end-line="2269" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageScaler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="1590">
+          <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/ImageTile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="852" max-vertical-offset="1260">
+          <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uceenir/mosaicscaler/MosaicScaler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.95027626" vertical-offset="271" max-vertical-offset="810">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>MosaicScaler</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-compiler</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MosaicScaler</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: hamcrest-core-1.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
